@@ -1,5 +1,7 @@
 # Contactless Multi-Array Switch
 
+![ScreenShot](https://raw.github.com/AchrafFriaa/SwitchXGBOOST/master/img/20201210_142639.jpg)
+
 ### The application kit contains :
 
 * Multi-Array Switch add-on, consisting of 4 magnets that can be moved contactles into two different states. 16 different states in total are therefore possible. Magnets are included.
